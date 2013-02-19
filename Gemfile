@@ -41,3 +41,7 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+# twitter-bootstrap less style
+gem "less-rails"
+gem "twitter-bootstrap-rails"
